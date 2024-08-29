@@ -3,6 +3,7 @@
 <div align="center">
 </div>
 
+This project is a Car Rental platform focused on Davao City, designed to connect users with available vehicles for their specified rental time and date. The application provides users with a list of available cars along with the seller’s information, facilitating easy bookings. Additionally, there is a dedicated seller page where car owners can list their vehicles, manage availability, and update rental dates, ensuring a seamless experience for both renters and sellers.
 
 ## Built With
 In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I used to build the web-app.
@@ -18,15 +19,17 @@ In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I us
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 - ![Boxicons](https://img.shields.io/badge/Boxicons-1E90FF?style=for-the-badge&logo=boxicons&logoColor=white)
 
-# Getting Started
-## Prerequisites
-## Installation
-
 # Usage
+To provide sample demos please reachout in my email (tjyap28@gmail.com)
 
 # Roadmap
-
-# License
+- [x] Created HTML
+- [x] Connected to MYSQL Database
+- [x] Display Car Availability
+- [ ] Input Car Owner Information in Database
+- [ ] Filter Cars that are available
+- [ ] Create different Database for Car Owners and Renters Informations.
+- [ ] Add a Car Owner Page.
 
 # Contact
 For any inquiries or to obtain the source code for this project, please feel free to reach out via email:
